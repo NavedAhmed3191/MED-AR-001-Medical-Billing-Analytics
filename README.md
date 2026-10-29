@@ -106,3 +106,8 @@ This is a portfolio project using non-production data. It does not represent act
 4. **Strengthen AR Follow-Up:** Prioritize older outstanding claims and establish regular follow-up schedules.
 5. **Improve Appeal Timeliness:** Track appeal deadlines and create alerts to reduce missed appeal opportunities.
 6. **Monitor Performance Regularly:** Use the Power BI dashboard to track denial rates, revenue at risk, payer performance, and AR trends.
+## Project Objective
+
+The objective of this project is to analyze medical billing claims, identify denial patterns, evaluate accounts receivable performance, and highlight opportunities to improve revenue cycle management.
+
+Using SQL and Power BI, the project examines denial rates, payer performance, denial categories, AR aging, revenue at risk, and appeal timeliness to support data-driven decision-making.
