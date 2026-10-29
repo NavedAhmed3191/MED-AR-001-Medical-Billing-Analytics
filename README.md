@@ -75,6 +75,14 @@ Data-quality observations
 Disclaimer
 
 This is a portfolio project using non-production data. It does not represent actual patient records or verified financial outcomes.
+## Key Business Findings
+
+- Analyzed 15,000 cleaned claims to understand claim denials and accounts receivable performance.
+- Identified a denial rate of approximately 19.12% based on the Power BI KPI.
+- Found Authorization to be the highest-volume denial category, with 387 denial records.
+- Identified Behavioral Health as an area requiring attention, with 736 denied claims out of 2,996 claims analyzed (24.57%).
+- Identified approximately $2.44 million in denied revenue at risk.
+- Analyzed accounts receivable aging, payer performance, and appeal timeliness to identify opportunities for improvement.
 ## Power BI Dashboard
 
 ![Executive Dashboard](Executive%20Dashboard.png)
@@ -90,3 +98,11 @@ This is a portfolio project using non-production data. It does not represent act
 - **Power Query:** Data preparation and transformation
 
 ![Final Analysis Summary](Final%20Analysis%20Summary-2.png)
+## Business Recommendations
+
+1. **Reduce Authorization Denials:** Review authorization requirements and verify approvals before claim submission.
+2. **Improve Behavioral Health Claim Accuracy:** Investigate common denial reasons and strengthen claim documentation and coding checks.
+3. **Prioritize High-Risk Payers:** Monitor payer-specific denial rates and investigate unusual denial patterns.
+4. **Strengthen AR Follow-Up:** Prioritize older outstanding claims and establish regular follow-up schedules.
+5. **Improve Appeal Timeliness:** Track appeal deadlines and create alerts to reduce missed appeal opportunities.
+6. **Monitor Performance Regularly:** Use the Power BI dashboard to track denial rates, revenue at risk, payer performance, and AR trends.
