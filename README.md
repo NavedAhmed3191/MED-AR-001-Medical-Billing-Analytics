@@ -75,3 +75,10 @@ Data-quality observations
 Disclaimer
 
 This is a portfolio project using non-production data. It does not represent actual patient records or verified financial outcomes.
+## Power BI Dashboard
+
+![Executive Dashboard](Executive%20Dashboard.png)
+
+## Final Analysis Summary
+
+![Final Analysis Summary](Final%20Analysis%20Summary-2.png)
