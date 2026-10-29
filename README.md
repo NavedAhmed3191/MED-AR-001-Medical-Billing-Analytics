@@ -81,4 +81,12 @@ This is a portfolio project using non-production data. It does not represent act
 
 ## Final Analysis Summary
 
+## Tools & Technologies
+
+- **PostgreSQL:** Data storage, querying, and analysis
+- **SQL:** Data validation, joins, aggregations, and denial analysis
+- **Power BI:** Interactive dashboards and data visualization
+- **DAX:** KPI measures and business calculations
+- **Power Query:** Data preparation and transformation
+
 ![Final Analysis Summary](Final%20Analysis%20Summary-2.png)
