@@ -145,3 +145,5 @@ MED-AR-001
 The objective of this project is to analyze medical billing claims, identify denial patterns, evaluate accounts receivable performance, and highlight opportunities to improve revenue cycle management.
 
 Using SQL and Power BI, the project examines denial rates, payer performance, denial categories, AR aging, revenue at risk, and appeal timeliness to support data-driven decision-making.
+[Download the Power BI Dashboard (.pbix)](./powerbi/MED-AR-001_Final_Dashboard.pbix)
+
