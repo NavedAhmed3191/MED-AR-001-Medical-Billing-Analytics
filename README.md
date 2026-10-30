@@ -97,6 +97,40 @@ This is a portfolio project using non-production data. It does not represent act
 - **DAX:** KPI measures and business calculations
 - **Power Query:** Data preparation and transformation
 
+# SQL Analysis – MED-AR-001
+
+This folder contains SQL queries developed for the **Medical Billing Denial & Accounts Receivable Analytics** project.
+
+## Project Objective
+Analyze medical billing claims, denials, payments, and accounts receivable to identify revenue risks, denial patterns, payer performance, and opportunities to improve revenue cycle management.
+
+## SQL Skills Demonstrated
+- SELECT, WHERE, ORDER BY
+- GROUP BY and aggregate functions
+- JOIN operations
+- CASE WHEN statements
+- Common Table Expressions (CTEs)
+- Subqueries
+- Date-based analysis
+- Data validation and quality checks
+- Business KPI calculations
+
+## Business Analysis Areas
+The SQL analysis supports investigation of:
+
+1. Claim and denial performance
+2. Denial trends by payer and category
+3. Revenue at risk and payment analysis
+4. Accounts receivable aging
+5. Appeal and follow-up performance
+
+## Database
+PostgreSQL
+
+## Project ID
+MED-AR-001
+
+**Note:** This project uses synthetic medical billing data for analytical and educational purposes.
 ![Final Analysis Summary](Final%20Analysis%20Summary-2.png)
 ## Business Recommendations
 
